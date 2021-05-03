@@ -1,6 +1,6 @@
 set PATH /usr/local/bin $PATH
 #!/usr/bin/ruby
-:wq
+
 #git commands
 alias clean="git clean -d -f" # kill any new uncommitted directories
 alias checkout="git checkout"
